@@ -1,0 +1,7 @@
+# Keep JSONL byte-identical (answers.jsonl md5 is part of the report).
+*.jsonl -text
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
+*.txt text eol=lf

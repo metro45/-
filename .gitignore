@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Local scratch files
+scratch_*
+*.log
+
+# Duplicate extraction folders
+data-20261023T101205Z-1-001/
+reference-20261023T101205Z-1-001/
+
+# Editors and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Archives and secrets
+*.zip
+.env
